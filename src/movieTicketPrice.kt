@@ -1,7 +1,7 @@
 
 
 fun main() {
-    val child = 7
+    val child = 10
     val adult = 28
     val senior = 87
 
@@ -23,8 +23,20 @@ fun ticketPrice(age: Int, isMonday: Boolean): Int {
                 price = 25
             else
                 price = 30
-        else
+        else if(age in 61 .. 100)
             price = 20
+        else
+            price = -1
+
     return price
 
 }
+
+
+//fun ticketPrice(age: Int, isMonday: Boolean): Int {
+//    return when(age) {
+//        in 0..12 -> 15
+//        in 13..60 -> if (isMonday) 25 else 30
+//        in 61..100 -> 20
+//        else -> -1
+//    }

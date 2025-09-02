@@ -3,6 +3,7 @@ This repo contains different kotlin files each containing unique projects, all o
 which represent a pathway that helped me in learning kotlin fundamentals.
 
 Through these projects I was able to learn:
+
  -Conditionals in kotlin
     - if/else statements
     - when statements

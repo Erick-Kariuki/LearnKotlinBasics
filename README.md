@@ -4,18 +4,17 @@ which represent a pathway that helped me in learning kotlin fundamentals.
 
 Through these projects I was able to learn:
 
--Conditionals in kotlin 
-    - if/else statements
-    - when statements
+Conditionals in kotlin 
+ - if/else statements
+ - when statements
+Use of nullability in kotlin
 
--Use of nullability in kotlin
+Classes and Objects in kotlin
 
--Classes and Objects in kotlin
+Use of function types and lambda expressions in kotlin
 
--Use of function types and lambda expressions in kotlin
-
--Kotlin Object-oriented programming 
- -Abstraction
- -Encapsulation
- -Inheritance
- -Polymorphisim
+Kotlin Object-oriented programming
+ - Abstraction
+ - Encapsulation
+ - Inheritance
+ - Polymorphism
